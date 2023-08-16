@@ -1,0 +1,15 @@
+[
+  {
+    "id": "primero",
+    "products": [
+      {
+        "id": "d1c71b37-5f9d-4157-944b-9dc4f8ca3",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "segundo",
+    "products": []
+  }
+]
